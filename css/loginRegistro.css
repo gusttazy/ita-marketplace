@@ -9,9 +9,9 @@
 }
 
 body {
-    display: grid;
-    place-items: center;
-    height: 100vh;
+    display: flex;
+    justify-content: center;
+    margin-top: 10vh;
 }
 
 h1 {
@@ -44,8 +44,14 @@ button.ghost {
 }
 
 button.ghost:hover {
-    color: #2f2f2f;
-    background-color: #fff;
+    color: #fff;
+    background-color: #FF9800;
+}
+
+button:hover {
+    background-color: #FF9800;
+    color: #fff;
+    transition: ease-in 0.3s;
 }
 
 button {
@@ -233,5 +239,4 @@ input {
     background-color: #2f2f2f;
     color: white;
 }
-
 
