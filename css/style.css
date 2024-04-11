@@ -154,11 +154,11 @@ a {
   padding: 12px 30px;
   border-radius: 30px;
   color: #ffffff;
-  background: #FF9800;
+  background: #2f2f2f;
  }
   .btn:hover {
     color: #ffffff;
-    background: #2f2f2f;
+    background: #FF9800;
     transition: ease-in 0.4s;
    }
   .btn:active, .btn:focus {
