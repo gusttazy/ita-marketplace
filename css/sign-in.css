@@ -17,14 +17,16 @@ body {
 }
 
 .btn {
-    background-color: #2f2f2f;
+    background-color: #FF9800;
     color: #fff;
+    transition: ease-in-out 0.5s;
 }
 
 .btn:hover {
-    background-color: #FF9800;
+    background-color: #2f2f2f;
     transition: 0.4s ease-in;
     color: #fff;
+    transition: ease-in-out 0.5s;
 }
 
 .h1 {
