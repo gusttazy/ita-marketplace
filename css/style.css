@@ -134,6 +134,7 @@ a.more {
   margin-right: 20px;
 }
 
+
 .hero {
   background: #2C7865;
   padding: calc(4rem - 30px) 0 0rem 0;
@@ -162,23 +163,18 @@ a.more {
   }
 }
 
-.hero h1 {
-  font-weight: 700;
-  color: #ffffff;
-  margin-bottom: 10px;
-  margin-top: 80px;
-  margin-right: 10px;
-}
-
 @media (min-width: 1400px) {
   .hero h1 {
     font-size: 54px;
   }
 }
 
+.hero h1 {
+  color: #fff;
+}
+
 .hero p {
-  color: rgba(255, 255, 255, 0.5);
-  font-size: 16px;
+  color: #e9e9e9;
 }
 
 
@@ -733,8 +729,6 @@ textarea {
   border-radius: 15px;
 }
 
-
-
 .form-signin .form-floating:focus-within {
   z-index: 2;
 }
@@ -772,16 +766,6 @@ textarea {
       width: 100%;
       min-height: 200px;
   }
-
-.marketing .col-lg-4 {
-  margin-bottom: 1.5rem;
-  text-align: center;
-}
-
-.marketing .col-lg-4 p {
-  margin-right: .75rem;
-  margin-left: .75rem;
-}
 
 .featurette-divider {
   margin: 5rem 0;
