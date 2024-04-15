@@ -1,6 +1,6 @@
 <img src="images/gif1.gif"></img>
 
-# Itá Marketplace - Loja de Artesanato Virtual
+# Itá Marketplace
 
 
 ## Loja Virtual de Artesanato Local
