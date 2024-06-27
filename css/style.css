@@ -683,6 +683,14 @@ textarea {
   width: 100%;
   height: 100%;
   }
+
+  .carousel-img {
+    opacity: 60%;
+  }
+
+  .carousel-text {
+    text-shadow: 0.5px 2px #FF9800;
+  }
   
   .carousel-inner .item{
       height: 35vh;
