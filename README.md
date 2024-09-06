@@ -1,10 +1,8 @@
-<img src="images/gif1.gif"></img>
-
 # Itá Marketplace
 
+<img src="images/gif1.gif"></img>
 
 ## Loja Virtual de Artesanato Local
-
 
 <p>Como atividade da disciplina de Web II, esse projeto tem como objetivo principal criar um site utilizando bootstrap que o torne adaptável para qualquer tamanho de tela.</p>
 
