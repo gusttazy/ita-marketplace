@@ -1,32 +1,37 @@
-# Itá Marketplace
+# 🛍️ Itá Marketplace
 
-<img src="images/gif1.gif"></img>
+<img src="images/gif1.gif" alt="Demonstração do projeto"></img>
 
-## Loja Virtual de Artesanato Local
+## 🌟 Loja Virtual de Artesanato Local
 
-<p>Como atividade da disciplina de Web II, esse projeto tem como objetivo principal criar um site utilizando bootstrap que o torne adaptável para qualquer tamanho de tela.</p>
+O **Itá Marketplace** é um projeto desenvolvido como atividade da disciplina de **Web II**. Ele tem como objetivo principal a criação de um site responsivo e adaptável a qualquer tamanho de tela utilizando o framework **Bootstrap**.  
 
-<p>O tema do projeto era criar uma loja virtual de artesanato local, contendo 3 páginas, utilizando o framework bootstrap e tendo seu deploy realizado no github pages.</p>
+O tema proposto foi a criação de uma loja virtual de artesanato local, contendo **3 páginas**, com seu deploy realizado no **GitHub Pages**.  
 
-<img src="images/gif2.gif"></img>
+<img src="images/gif2.gif" alt="Visualização adicional do projeto"></img>
 
-<p>O projeto se trata de um modelo front-end de um e-commerce. Dado o tema escolhi o artesanato indígena como foco nos produtos que seriam comercializados por esta loja.</p>
+### 🏹 Foco do Projeto  
+Este projeto é um **modelo front-end** de um e-commerce. O tema escolhido foi **artesanato indígena**, destacando produtos típicos que poderiam ser comercializados por essa loja.  
 
-## 💻 Tecnologias utilizadas
+---
 
-- [Javascript](https://devdocs.io/javascript/)
+## 💻 Tecnologias Utilizadas  
 
-- [Bootstrap](https://getbootstrap.com/docs/5.3/getting-started/introduction/)
+- **[JavaScript](https://devdocs.io/javascript/)**  
+- **[Bootstrap](https://getbootstrap.com/docs/5.3/getting-started/introduction/)**  
+- **HTML**  
+- **CSS**  
 
-- HTML
+---
 
-- CSS
+## 🚀 Acesse o Projeto  
 
-<hr>
+Confira a versão final do projeto no GitHub Pages:  
+👉 [Itá Marketplace](https://gusttazy.github.io/itaMarketplace/)  
 
-#### Acesse a página do projeto finalizado: https://gusttazy.github.io/itaMarketplace/
+---
 
-<hr>
+## 🎨 Créditos dos Produtos  
 
-## Créditos dos produtos:
-#### https://www.tucumbrasil.com/
+Os produtos exibidos neste projeto foram obtidos de:  
+🌐 [Tucum Brasil](https://www.tucumbrasil.com/)  
