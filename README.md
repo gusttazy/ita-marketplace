@@ -24,13 +24,6 @@ Este projeto é um **modelo front-end** de um e-commerce. O tema escolhido foi *
 
 ---
 
-## 🚀 Acesse o Projeto  
-
-Confira a versão final do projeto no GitHub Pages:  
-👉 [Itá Marketplace](https://gusttazy.github.io/itaMarketplace/)  
-
----
-
 ## 🎨 Créditos dos Produtos  
 
 Os produtos exibidos neste projeto foram obtidos de:  
